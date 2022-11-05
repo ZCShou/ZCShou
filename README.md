@@ -1,5 +1,5 @@
 <p align="center">
-ZCShou
+Welcome to ZCShou's profile.
 </p>
 
 <div align="center">
@@ -21,10 +21,6 @@ ZCShou
 [![](https://img.shields.io/badge/DJI%20MINI%202-black?style=flat-square&logoColor=white)](https://www.dji.com/cn/mini-2?site=brandsite&from=nav)
 </div>
 
-<div align="center">
-Welcome to ZCShou's profile.
-</div>
-
 ---
 
 ### 😜 Stats
@@ -38,7 +34,7 @@ Welcome to ZCShou's profile.
 
 ### 📚 All Skills
 
-![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,vercel,figma,vscode,idea,vim,atom,js,ts,html,css,c,bootstrap,jquery,nodejs,python,java,react,vue,tailwind,spring,nextjs,maven,mongo,redis,mysql,fastapi,flask,md,regex,aws,azure,linux,bash,docker,kubernetes,ansible,grafana,prometheus,nginx,jenkins)
+![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,twitter,stackoverflow,vscode,idea,vim,js,ts,html,css,c,nodejs,python,java,react,tailwind,spring,nextjs,maven,mongo,mysql,fastapi,flask,md,regex,aws,azure,linux,bash,nginx,jenkins)
 
 ### 💻 Activity Graph
 
@@ -47,9 +43,9 @@ Welcome to ZCShou's profile.
 <!--
 ### 💸 Donate
 
-🔸 Bitcoin: `KRgXmYvzxkNgd5Kt9iEoRe4szXW8Ag4yc`
+🔸 Bitcoin: `0000`
 
-🔸 Ethereum: `0x80DF1CaB786398503f991AAF3B48Be06044CF42F`
+🔸 Ethereum: `000`
 -->
 
   
